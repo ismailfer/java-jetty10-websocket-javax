@@ -11,7 +11,7 @@
 // ========================================================================
 //
 
-package org.eclipse.jetty.demo;
+package com.ismail.jetty.ws;
 
 import java.io.IOException;
 import java.util.Locale;

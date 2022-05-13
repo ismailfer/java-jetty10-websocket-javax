@@ -11,7 +11,7 @@
 // ========================================================================
 //
 
-package org.eclipse.jetty.demo;
+package com.ismail.jetty;
 
 import java.io.IOException;
 import java.net.URI;
@@ -21,6 +21,8 @@ import javax.websocket.Session;
 import javax.websocket.WebSocketContainer;
 
 import org.eclipse.jetty.util.component.LifeCycle;
+
+import com.ismail.jetty.ws.EventSocket;
 
 public class EventClient
 {
